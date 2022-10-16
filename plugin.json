@@ -7,7 +7,7 @@
   ],
   "fields": [
     {
-      "field": "params.metatags_html",
+      "field": "params.metatags_plugin_html",
       "label": "HTML",
       "type": "markdown"
     }
