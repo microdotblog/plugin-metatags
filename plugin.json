@@ -3,7 +3,7 @@
   "title": "Meta tags",
   "description": "Add meta tags to your blog.",
   "includes": [
-    "/plugin_metatags.html"
+    "plugin_metatags.html"
   ],
   "fields": [
     {
