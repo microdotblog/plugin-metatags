@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "title": "Meta tags",
+  "description": "Add meta tags to your blog.",
+  "includes": [
+    "/plugin_metatags.html"
+  ],
+  "fields": [
+    {
+      "field": "params.metatags_html",
+      "label": "HTML",
+      "type": "markdown"
+    }
+  ]
+}
